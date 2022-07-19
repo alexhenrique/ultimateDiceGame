@@ -1,6 +1,6 @@
 # Jogo Dados
 
-##Os dados 
+## Os dados 
 são pequenos poliedros gravados com determinadas instruções. O dado mais clássico é o cubo (seis faces), gravado com números de um a seis. Existem também dados de duas faces (representados por moedas), três faces (igual a um dado clássico de seis lados, mas com apenas três números, sendo cada um repetido duas vezes), quatro faces (em formato piramidal), oito faces, dez faces, 12 faces, 20 faces, entre outros.
 
 Costuma-se usar uma barra aproximadamente cilíndrica com lados aplainados na construção dos dados, por exemplo, um dado de "mil lados" teria 853º lados.
@@ -10,7 +10,7 @@ Dados com quatro, seis, oito, dez, 12 e 20 lados. Usados em jogos de tabuleiro e
 
 Uma pequena curiosidade quanto aos dados clássicos (fabricados de forma correta), de seis lados: a soma dos lados opostos resulta no número sete. Ou seja, se de um lado temos o número um automaticamente teríamos o número seis do outro lado. Isso ocorre também com o dois casando com o cinco, e o três com o quatro. Isso se aplica também a qualquer outro dado, a soma de dois lados opostos sempre é igual ao número de faces mais um. Assim, um D20 somaria 21 nos lados opostos, um D12 somaria 13, e assim por diante.
 
-##Histórico
+## Histórico
 Dado do Jogo do Osso, feito de Pedra-sabão.
 
 Os primeiros dados eram provavelmente feitos de pluma de animais, como tornozelo de garça (ver imagem ao lado), que tinham um formato próximo ao do tetraedro. Marfim, osso, madeira, metal, e pedra foram materiais bastante utilizados, com o advento dos polímeros, os plásticos tornaram-se quase unanimidade.
